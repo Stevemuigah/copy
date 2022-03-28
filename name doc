@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+ printf("Steven muiga wakaba\n");
+return 0;
+}
